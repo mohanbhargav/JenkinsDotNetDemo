@@ -94,3 +94,4 @@ C:\JenkinsDotNetDemo\JenkinsDotNetDemo.Tests\obj\Debug\net10.0\refint\JenkinsDot
 C:\JenkinsDotNetDemo\JenkinsDotNetDemo.Tests\obj\Debug\net10.0\JenkinsDotNetDemo.Tests.pdb
 C:\JenkinsDotNetDemo\JenkinsDotNetDemo.Tests\obj\Debug\net10.0\JenkinsDotNetDemo.Tests.genruntimeconfig.cache
 C:\JenkinsDotNetDemo\JenkinsDotNetDemo.Tests\obj\Debug\net10.0\ref\JenkinsDotNetDemo.Tests.dll
+C:\JenkinsDotNetDemo\JenkinsDotNetDemo.Tests\obj\Debug\net10.0\JenkinsDotNetDemo.Tests.sourcelink.json

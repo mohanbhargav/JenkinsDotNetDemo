@@ -31,3 +31,4 @@ C:\JenkinsDotNetDemo\JenkinsDotNetDemo\obj\Debug\net10.0\refint\JenkinsDotNetDem
 C:\JenkinsDotNetDemo\JenkinsDotNetDemo\obj\Debug\net10.0\JenkinsDotNetDemo.pdb
 C:\JenkinsDotNetDemo\JenkinsDotNetDemo\obj\Debug\net10.0\JenkinsDotNetDemo.genruntimeconfig.cache
 C:\JenkinsDotNetDemo\JenkinsDotNetDemo\obj\Debug\net10.0\ref\JenkinsDotNetDemo.dll
+C:\JenkinsDotNetDemo\JenkinsDotNetDemo\obj\Debug\net10.0\JenkinsDotNetDemo.sourcelink.json
